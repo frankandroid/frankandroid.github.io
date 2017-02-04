@@ -1,5 +1,5 @@
 ---
-title: 关于dagger2及其使用
+title: 关于dagger2及其使用(1)
 date: 2017-01-22 10:38:08
 updated: 2017-01-22 10:38:08
 categories: [第三方框架使用] 
@@ -321,6 +321,16 @@ public interface FirstComponent {
    /* void injectScrollingActivity(ScrollingActivity activity);*/
 }
 ```
+
+####一个需要注意的细节。
+
+>创建类实例有2个维度可以创建：
+
+1 通过用Inject注解标注的构造函数来创建（以下简称Inject维度）<br/>
+2 通过工厂模式的Module来创建（以下简称Module维度）<br/>
+
+>这2个维度是有优先级之分的，Component会首先从Module维度中查找类实例，若找到就用Module维度创建类实例，并停止查找Inject维度。否则才是从Inject维度查找类实例。所以创建类实例级别Module维度要高于Inject维度。
+
 
 #### 第一篇先写这些，第二篇会接着介绍其他的注解以及其含义。
 
