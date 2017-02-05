@@ -1,5 +1,5 @@
 ---
-title: 关于dagger2及其使用(2)haha
+title: 关于dagger2及其使用(2)
 date: 2017-02-04 10:05:32
 updated: 2017-02-04 10:05:32
 categories:
