@@ -2,8 +2,8 @@
 title: 关于dagger2及其使用(2)
 date: 2017-02-04 10:05:32
 updated: 2017-02-04 10:05:32
-categories:
-tags:
+categories: [第三方框架使用]
+tags: [dagger2]
 ---
 
 >接着上一篇的博客，我们来接着了解dagger2的其他操作符及其使用。包括Qualifier（限定符）、Singleton（单例）、Scope（作用域）,SubComponent等。
