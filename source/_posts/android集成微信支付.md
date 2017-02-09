@@ -12,9 +12,12 @@ tags: [支付]
 
 2. 根据应用的包名生成应用的签名，注意需要是正式包，然后配置到后台
 <img src="https://i.niupic.com/images/2017/02/09/ZnwO60.png" />
-<img src="https://i.niupic.com/images/2017/02/09/MOLd6E.png />
+<img src="https://i.niupic.com/images/2017/02/09/MOLd6E.png" />
 
-3. 在Manifest文件中配置。
+3. 把微信提供的jar包放入到libs目录下，在Manifest文件中配置好WXPayEntryActivity（看第四步）。
+
+<img src="https://i.niupic.com/images/2017/02/09/UHOAx0.png" />
+
 
 ```java
  <!-- 微信支付 -->
@@ -27,7 +30,7 @@ tags: [支付]
 
 
 4. 必须在项目包名的根目录下建一个名称为"wxapi"的文件夹。然后放入WXPayEntryActivity类。这个细节很重要。
-<img src="https://i.niupic.com/images/2017/02/09/sIJEKh.png />
+<img src="https://i.niupic.com/images/2017/02/09/sIJEKh.png" />
 
 
 5. 去后台请求数据
@@ -82,7 +85,7 @@ public class WePayResBean {
 ```
 
 7. 必须在项目包名的根目录下建一个名称为"wxapi"的文件夹。然后放入WXPayEntryActivity类。这个细节很重要。
-<img src="https://i.niupic.com/images/2017/02/09/sIJEKh.png />
+<img src="https://i.niupic.com/images/2017/02/09/sIJEKh.png" />
 
 
 8. 获取数据成功后。调用微信的API。
@@ -221,7 +224,7 @@ public class WXPayEntryActivity extends BaseActivity implements IWXAPIEventHandl
 第二个是支付结果的回掉在WXPayEntryActivity中。第三点就是生成的配置到后台的签名必须是正式的签名。
 
 支付成功后显示的界面
-<img src="https://i.niupic.com/images/2017/02/09/sIJEKh.png />
+<img src="https://i.niupic.com/images/2017/02/09/sIJEKh.png" />
 
 [欢迎下载我们的app:律正,在您需要帮助的时候给你提供法律咨询](http://www.962.net/azgame/142520.html);
 
