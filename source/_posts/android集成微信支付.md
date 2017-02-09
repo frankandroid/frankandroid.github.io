@@ -223,8 +223,6 @@ public class WXPayEntryActivity extends BaseActivity implements IWXAPIEventHandl
 >需要注意的有3点，第一点是：必须要在项目包名的根目录下，项目包名的根目录下建一个名称为"wxapi"的文件夹。然后放入WXPayEntryActivity类。
 第二个是支付结果的回掉在WXPayEntryActivity中。第三点就是生成的配置到后台的签名必须是正式的签名。
 
-支付成功后显示的界面
-<img src="https://i.niupic.com/images/2017/02/09/sIJEKh.png" />
 
 [欢迎下载我们的app:律正,在您需要帮助的时候给你提供法律咨询](http://www.962.net/azgame/142520.html);
 
