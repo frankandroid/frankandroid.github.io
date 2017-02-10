@@ -1,7 +1,7 @@
 ---
 title: GreenDao3.0的使用
-date: 2017-02-09 20:25:00
-updated: 2017-02-09 20:25:00
+date: 2016-12-09 20:25:00
+updated: 2016-12-09 20:25:00
 categories: [第三方框架使用]
 tags: [GreenDao3.0]
 ---
