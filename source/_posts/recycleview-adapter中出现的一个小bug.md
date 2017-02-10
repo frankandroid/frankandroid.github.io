@@ -59,7 +59,7 @@ public class RamdomNumberDialogAdapter extends RecyclerView.Adapter<RamdomNumber
 
 上述代码导致的问题就是每点击一次，蓝色球就会增加一个，其实是复用导致的问题。
 
-<img src="(https://i.niupic.com/images/2017/02/09/hR5uwu.png" />
+<img src="https://i.niupic.com/images/2017/02/09/hR5uwu.png" />
 <img src="https://i.niupic.com/images/2017/02/09/3f4DsO.png" />
 <img src="https://i.niupic.com/images/2017/02/09/8YtnJA.png" />
 
