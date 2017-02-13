@@ -1,7 +1,7 @@
 ---
 title: 关于dagger2及其使用(1)
-date: 2017-01-22 10:38:08
-updated: 2017-01-22 10:38:08
+date: 2016-07-01 10:38:08
+updated: 2016-07-01 10:38:08
 categories: [第三方框架使用] 
 tags: [dagger2]
 
