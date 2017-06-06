@@ -7,12 +7,13 @@ tags:
 ---
 
 
-### 
+
 
 主要有哪些效果
 http://www.jcodecraeer.com/a/anzhuokaifa/developer/2015/0531/2958.html
 
-好的博客
+### AppBarLayout、CollapsingToolbarLayout，CoordinateLayout
+
 http://www.jianshu.com/p/40efd44802ef
 
 http://www.jianshu.com/p/d159f0176576
