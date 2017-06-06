@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2017/06/06/android-5-0-%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9BMaterial-Design%E6%8E%A7%E4%BB%B6/</loc>
+    
+    <lastmod>2017-06-06T14:47:26.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2017/02/07/%E4%BD%BF%E7%94%A8Rxjava-Retrofit-Dagger2-Mvp%E6%9E%84%E5%BB%BA%E7%9A%84%E5%AE%89%E5%8D%93%E6%A1%86%E6%9E%B6-2/</loc>
     
     <lastmod>2017-02-07T12:28:13.000Z</lastmod>
@@ -16,14 +23,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
+    <loc>http://yoursite.com/categories/index.html</loc>
     
     <lastmod>2017-02-05T10:28:58.874Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>http://yoursite.com/tags/index.html</loc>
     
     <lastmod>2017-02-05T10:28:58.874Z</lastmod>
     

@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-02-07T12:28:13.000Z</updated>
+  <updated>2017-06-06T14:47:26.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>android 5.0 中的一些Material Design控件</title>
+    <link href="http://yoursite.com/2017/06/06/android-5-0-%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9BMaterial-Design%E6%8E%A7%E4%BB%B6/"/>
+    <id>http://yoursite.com/2017/06/06/android-5-0-中的一些Material-Design控件/</id>
+    <published>2017-06-06T14:47:26.000Z</published>
+    <updated>2017-06-06T14:47:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>### </p>
+<p>主要有哪些效果<br><a href="http://www.jcodecraeer.com/a/anzhuokaifa/developer/2015/0531/2958.html" target="_blank" rel="external">http://www.jcodecraeer.com/a/anzhuokaifa/developer/2015/0531/2958.html</a></p>
+<p>好的博客<br><a href="http://www.jianshu.com/p/40efd44802ef" target="_blank" rel="external">http://www.jianshu.com/p/40efd44802ef</a></p>
+<p><a href="http://www.jianshu.com/p/d159f0176576" target="_blank" rel="external">http://www.jianshu.com/p/d159f0176576</a></p>
+<p>代码<br><a href="https://github.com/chrisbanes/cheesesquare" target="_blank" rel="external">https://github.com/chrisbanes/cheesesquare</a></p>
+<h3 id="FloatingActionButton"><a href="#FloatingActionButton" class="headerlink" title="FloatingActionButton"></a>FloatingActionButton</h3><p><a href="http://blog.csdn.net/u010687392/article/details/46954213" target="_blank" rel="external">http://blog.csdn.net/u010687392/article/details/46954213</a></p>
+<h3 id="cardView"><a href="#cardView" class="headerlink" title="cardView"></a>cardView</h3><p><a href="http://blog.csdn.net/javacainiao931121/article/details/51720807" target="_blank" rel="external">http://blog.csdn.net/javacainiao931121/article/details/51720807</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;### &lt;/p&gt;
+&lt;p&gt;主要有哪些效果&lt;br&gt;&lt;a href=&quot;http://www.jcodecraeer.com/a/anzhuokaifa/developer/2015/0531/2958.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ht
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>使用Rxjava-Retrofit-Dagger2-Mvp构建的安卓框架(2)</title>
